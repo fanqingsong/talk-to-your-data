@@ -11,7 +11,7 @@ st.set_page_config(
     page_icon=assistant_logo
 )
 
-openai_api_key = st.sidebar.text_input('Input your OpenAI API Key', value="sk-", type = 'password')
+openai_api_key = st.sidebar.text_input('Input your OpenAI API Key', value="sk-sdfdf", type = 'password')
 
 
 # Initialize chat history
